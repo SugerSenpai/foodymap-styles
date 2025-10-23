@@ -828,6 +828,10 @@
       "filter": ["all", ["==", "$type", "Point"], ["==", "class", "village"]],
       "layout": {
         "icon-size": 0.4,
+        "icon-allow-overlap": true,
+        "icon-ignore-placement": true,
+        "text-allow-overlap": true,
+        "text-ignore-placement": true,
         "text-anchor": "left",
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": ["Metropolis Regular", "Noto Sans Regular"],
