@@ -24,6 +24,10 @@
     "openmaptiles": {
       "type": "vector",
       "url": "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key={key}"
+    },
+    "locations": {
+      "type": "geojson",
+      "data": { "type": "FeatureCollection", "features": [] }
     }
   },
   "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
