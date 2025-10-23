@@ -973,7 +973,7 @@
       "type": "symbol",
       "source": "locations",
       "layout": {
-        "icon-image": "location-marker",
+        "icon-image": ["get", "image"],
         "icon-size": 0.8,
         "icon-allow-overlap": true,
         "icon-ignore-placement": true
