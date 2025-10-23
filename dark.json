@@ -977,6 +977,12 @@
         "icon-size": 1.6,
         "icon-allow-overlap": true,
         "icon-ignore-placement": true
+      },
+      "paint": {
+        "icon-halo-color": "#ffffff",
+        "icon-halo-width": 2,
+        "icon-halo-blur": 1,
+        "icon-opacity": 1
       }
     }
   ],
