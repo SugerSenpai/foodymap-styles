@@ -974,7 +974,7 @@
       "source": "locations",
       "layout": {
         "icon-image": ["get", "image"],
-        "icon-size": 0.8,
+        "icon-size": 1.6,
         "icon-allow-overlap": true,
         "icon-ignore-placement": true
       }
