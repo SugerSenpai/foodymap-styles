@@ -974,14 +974,14 @@
       "source": "locations",
       "layout": {
         "icon-image": ["get", "image"],
-        "icon-size": 1.6,
+        "icon-size": 0.8,
         "icon-allow-overlap": true,
         "icon-ignore-placement": true
       },
       "paint": {
         "icon-halo-color": "#ffffff",
-        "icon-halo-width": 2,
-        "icon-halo-blur": 1,
+        "icon-halo-width": 3.5,
+        "icon-halo-blur": 2.5,
         "icon-opacity": 1
       }
     }
