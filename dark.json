@@ -965,17 +965,15 @@
       }
     },
     {
-      "id": "foodymap-markers",
+      "id": "locations-symbols",
       "type": "symbol",
-      "source": "openmaptiles",
-      "source-layer": "place",
+      "source": "locations",
       "layout": {
-        "icon-image": "{marker-icon}",
+        "icon-image": "location-marker",
+        "icon-size": 0.8,
         "icon-allow-overlap": true,
-        "icon-ignore-placement": true,
-        "icon-size": 1
-      },
-      "paint": {}
+        "icon-ignore-placement": true
+      }
     }
   ],
   "id": "dark-matter"
